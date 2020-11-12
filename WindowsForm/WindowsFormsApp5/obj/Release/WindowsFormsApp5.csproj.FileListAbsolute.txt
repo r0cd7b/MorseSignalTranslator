@@ -1,0 +1,19 @@
+C:\Users\asdzx\Desktop\5-26\WindowsFormsApp5\WindowsFormsApp5\bin\Release\WindowsFormsApp5.exe.config
+C:\Users\asdzx\Desktop\5-26\WindowsFormsApp5\WindowsFormsApp5\bin\Release\WindowsFormsApp5.exe
+C:\Users\asdzx\Desktop\5-26\WindowsFormsApp5\WindowsFormsApp5\bin\Release\WindowsFormsApp5.pdb
+C:\Users\asdzx\Desktop\5-26\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Form1.resources
+C:\Users\asdzx\Desktop\5-26\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\asdzx\Desktop\5-26\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\asdzx\Desktop\5-26\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\asdzx\Desktop\5-26\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.exe
+C:\Users\asdzx\Desktop\5-26\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.pdb
+C:\Users\dongwoo\Desktop\모든과제최종프로젝트 3학년\디신\WindowsFormsApp5\WindowsFormsApp5\bin\Release\WindowsFormsApp5.exe.config
+C:\Users\dongwoo\Desktop\모든과제최종프로젝트 3학년\디신\WindowsFormsApp5\WindowsFormsApp5\bin\Release\WindowsFormsApp5.exe
+C:\Users\dongwoo\Desktop\모든과제최종프로젝트 3학년\디신\WindowsFormsApp5\WindowsFormsApp5\bin\Release\WindowsFormsApp5.pdb
+C:\Users\dongwoo\Desktop\모든과제최종프로젝트 3학년\디신\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\dongwoo\Desktop\모든과제최종프로젝트 3학년\디신\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Form1.resources
+C:\Users\dongwoo\Desktop\모든과제최종프로젝트 3학년\디신\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\dongwoo\Desktop\모든과제최종프로젝트 3학년\디신\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\dongwoo\Desktop\모든과제최종프로젝트 3학년\디신\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\dongwoo\Desktop\모든과제최종프로젝트 3학년\디신\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.exe
+C:\Users\dongwoo\Desktop\모든과제최종프로젝트 3학년\디신\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.pdb
